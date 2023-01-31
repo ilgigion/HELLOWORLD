@@ -1,2 +1,2 @@
 # HELLOWORLD
-cout << "Hello everybody, its my first repository ☻"
+cout << "Hello everybody, it's my first repository ☻"
